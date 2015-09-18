@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\PROJET-C#-CESI\depSpace\space_invaders-teach\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+C:\Users\user\Desktop\PROJET-C#-CESI\depSpace\space_invaders-teach\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\Users\user\Desktop\PROJET-C#-CESI\depSpace\space_invaders-teach\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\Users\user\Desktop\PROJET-C#-CESI\depSpace\space_invaders-teach\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PROJET-C#-CESI\depSpace\space_invaders-teach\SpaceInvaders\obj\x86\Debug\SpaceInvaders.GameForm.resources
+C:\Users\user\Desktop\PROJET-C#-CESI\depSpace\space_invaders-teach\SpaceInvaders\obj\x86\Debug\SpaceInvaders.Properties.Resources.resources
+C:\Users\user\Desktop\PROJET-C#-CESI\depSpace\space_invaders-teach\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\PROJET-C#-CESI\depSpace\space_invaders-teach\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb

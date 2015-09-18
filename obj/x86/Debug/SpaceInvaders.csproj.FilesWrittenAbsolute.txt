@@ -1,0 +1,7 @@
+/Users/richard/Documents/travail/cours/CSHARP/depSpace/space_invaders-teach/SpaceInvaders/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/richard/Documents/travail/cours/CSHARP/depSpace/space_invaders-teach/SpaceInvaders/obj/x86/Debug/SpaceInvaders.GameForm.resources
+/Users/richard/Documents/travail/cours/CSHARP/depSpace/space_invaders-teach/SpaceInvaders/obj/x86/Debug/SpaceInvaders.Properties.Resources.resources
+/Users/richard/Documents/travail/cours/CSHARP/depSpace/space_invaders-teach/SpaceInvaders/bin/Debug/SpaceInvaders.exe.mdb
+/Users/richard/Documents/travail/cours/CSHARP/depSpace/space_invaders-teach/SpaceInvaders/bin/Debug/SpaceInvaders.exe
+/Users/richard/Documents/travail/cours/CSHARP/depSpace/space_invaders-teach/SpaceInvaders/obj/x86/Debug/SpaceInvaders.exe
+/Users/richard/Documents/travail/cours/CSHARP/depSpace/space_invaders-teach/SpaceInvaders/obj/x86/Debug/SpaceInvaders.exe.mdb
